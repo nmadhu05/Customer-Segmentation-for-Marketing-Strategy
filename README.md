@@ -1,1 +1,1 @@
-# Cutomer-Segmentation-for-Marketing-Strategy
+# Customer-Segmentation-for-Marketing-Strategy
